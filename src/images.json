@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/images/donald.png"
+  },
+  {
+    "id": 2,
+    "image": "./assets/images/bingo.jpg"
+  },
+  {
+    "id": 3,
+    "image": "./assets/images/catboy.jpg"
+  },
+  {
+    "id": 4,
+    "image": "./assets/images/gekko.jpg"
+  },
+  {
+    "id": 5,
+    "image": "./assets/images/goofy.png"
+  },
+  {
+    "id": 6,
+    "image": "./assets/images/mickey.jpg"
+  },
+  {
+    "id": 7,
+    "image": "./assets/images/minnie.jpg"
+  },
+  {
+    "id": 8,
+    "image": "./assets/images/owlette.jpg"
+  },
+  {
+    "id": 9,
+    "image": "./assets/images/rolly.jpg"
+  },
+  {
+    "id": 10,
+    "image": "./assets/images/sofia.jpg"
+  },
+  {
+    "id": 11,
+    "image": "./assets/images/vamparina.jpg"
+  },
+  {
+    "id": 12,
+    "image": "./assets/images/pete.png"
+  }
+]

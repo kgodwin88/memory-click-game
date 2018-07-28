@@ -1,0 +1,18 @@
+.lower{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+}
+.footer{
+    padding-top: 150px;
+    margin-top: 25px;
+    height: 100px;
+    position: relative;
+    color: #fff;
+    overflow: auto;
+    background-color:#007bff;
+}
