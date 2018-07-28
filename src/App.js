@@ -43,6 +43,11 @@ class App extends Component {
       
       this.setState({topScore: this.state.score + 1})
     }
+    if(this.state.topScore = 12){
+      this.setState({greeting:"You won!"})
+      this.setState({score: 0})
+      newArray =[];
+    }
     }
     else{
       this.setState({greeting:"You Guessed Incorrectly"})
